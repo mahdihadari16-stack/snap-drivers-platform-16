@@ -1,0 +1,51 @@
+# Core Framework
+kivy==2.1.0
+kivymd==1.1.1
+
+# Database
+sqlite3
+
+# HTTP Requests
+requests==2.31.0
+
+# JSON handling (built-in, but for reference)
+# json
+
+# Date and Time
+python-dateutil==2.8.2
+
+# Image processing
+Pillow==10.0.0
+
+# Notifications (for Android)
+plyer==2.1.0
+
+# File handling
+pathlib
+
+# Configuration
+configparser
+
+# Logging
+logging
+
+# Threading (built-in)
+# threading
+
+# Async support
+asyncio
+
+# Encryption (for secure data)
+cryptography==41.0.7
+
+# Build tools (for creating APK)
+buildozer==1.5.0
+cython==3.0.5
+
+# Development tools
+black==23.9.1
+flake8==6.1.0
+pytest==7.4.3
+
+# Additional utilities
+colorama==0.4.6  # For colored terminal output
