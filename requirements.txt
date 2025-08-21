@@ -6,7 +6,7 @@ kivymd==1.1.1
 sqlite3
 
 # HTTP Requests
-requests==2.31.0
+requests==2.32.5
 
 # JSON handling (built-in, but for reference)
 # json
