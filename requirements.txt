@@ -15,7 +15,7 @@ requests==2.31.0
 python-dateutil==2.8.2
 
 # Image processing
-Pillow==10.0.0
+Pillow==10.4.0
 
 # Notifications (for Android)
 plyer==2.1.0
