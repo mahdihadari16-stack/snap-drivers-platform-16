@@ -1,6 +1,6 @@
 # Core Framework
 kivy==2.1.0
-kivymd==1.1.1
+kivymd==1.2.0
 
 # Database
 sqlite3
